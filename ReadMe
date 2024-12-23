@@ -33,36 +33,13 @@ A Python-based simple calculator that performs basic arithmetic operations like 
 - Users input two numbers and choose an operation.
 - The result is displayed, and users can decide to continue with the current result or   start a new calculation.
 
-## Code Preview
-
-Here is the logo used in the project:
-
-```plaintext
- _____________________
-|  _________________  |
-| | Pythonista   0. | |
-| |_________________| |
-|  ___ ___ ___   ___  |
-| | 7 | 8 | 9 | | + | |
-| |___|___|___| |___| |
-| | 4 | 5 | 6 | | - | |
-| |___|___|___| |___| |
-| | 1 | 2 | 3 | | x | |
-| |___|___|___| |___| |
-| | . | 0 | = | | / | |
-| |___|___|___| |___| |
-|_____________________|
-```
-
 ## Usage
 
 1. Clone the repository:
    git clone <https://github.com/shreyasvp26/Simple-Calculator---Python>
 
 2. Run the script:
-   ```bash
    python calculator.py
-   ```
 
 3. Follow the prompts in the terminal to perform calculations.
 
