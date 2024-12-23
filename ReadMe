@@ -1,6 +1,21 @@
 # Simple Calculator in Python
 
-![Calculator Logo](https://via.placeholder.com/500x150?text=Python+Simple+Calculator) <!-- Replace with an actual link to your project logo -->
+"""
+______________________
+|  _________________  |
+| | Pythonista   0. | |  .----------------.  .----------------.  .----------------.  .----------------. 
+| |_________________| | | .--------------. || .--------------. || .--------------. || .--------------. |
+|  ___ ___ ___   ___  | | |     ______   | || |      __      | || |   _____      | || |     ______   | |
+| | 7 | 8 | 9 | | + | | | |   .' ___  |  | || |     /  \     | || |  |_   _|     | || |   .' ___  |  | |
+| |___|___|___| |___| | | |  / .'   \_|  | || |    / /\ \    | || |    | |       | || |  / .'   \_|  | |
+| | 4 | 5 | 6 | | - | | | |  | |         | || |   / ____ \   | || |    | |   _   | || |  | |         | |
+| |___|___|___| |___| | | |  \ `.___.'\  | || | _/ /    \ \_ | || |   _| |__/ |  | || |  \ `.___.'\  | |
+| | 1 | 2 | 3 | | x | | | |   `._____.'  | || ||____|  |____|| || |  |________|  | || |   `._____.'  | |
+| |___|___|___| |___| | | |              | || |              | || |              | || |              | |
+| | . | 0 | = | | / | | | '--------------' || '--------------' || '--------------' || '--------------' |
+| |___|___|___| |___| |  '----------------'  '----------------'  '----------------'  '----------------' 
+|_____________________|
+"""
 
 A Python-based simple calculator that performs basic arithmetic operations like addition, subtraction, multiplication, and division. This project is beginner-friendly and serves as a great starting point for understanding Python functions, loops, and dictionaries.
 
@@ -42,10 +57,7 @@ Here is the logo used in the project:
 ## Usage
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/simple-calculator.git
-   cd simple-calculator
-   ```
+   git clone <https://github.com/yourusername/simple-calculator.gitcd simple-calculator>
 
 2. Run the script:
    ```bash
