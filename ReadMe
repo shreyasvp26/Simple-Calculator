@@ -36,7 +36,7 @@ A Python-based simple calculator that performs basic arithmetic operations like 
 ## Usage
 
 1. Clone the repository:
-   git clone <https://github.com/shreyasvp26/Simple-Calculator---Python>
+   git clone <https://github.com/shreyasvp26/Simple-Calculator>
 
 2. Run the script:
    python calculator.py
